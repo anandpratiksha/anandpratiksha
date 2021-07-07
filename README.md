@@ -40,7 +40,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-<img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="250" />
+<img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="250" height="100px" />
 
-
+ <h2>FUN FACT : Inhale the Functional component , exhale the Class component 😁</h2>
 
