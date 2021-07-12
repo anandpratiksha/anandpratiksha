@@ -42,5 +42,5 @@
 
 <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="100" height="100px" />
 
- <h2>FUN FACT : Inhale the Functional component , exhale the Class component 😁</h2>
+ <h2>Inhale the Functional component , exhale the Class component 😁</h2>
 
