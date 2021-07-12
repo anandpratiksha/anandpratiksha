@@ -4,6 +4,7 @@
 
 - 📫 How to reach me *apratiksha1137@gmail.com*
 -  <a href="https://www.instagram.com/pratiksharameshanand/"><img src="https://img.shields.io/badge/Pratiksharameshanand-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Pratiksha Ramesh Anand" />
+ [website]:https://www.linkedin.com/in/pratiksha-anand-496520216
  
  <h3 align="left">Languages and Tools:</h3>
  
