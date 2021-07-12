@@ -4,7 +4,7 @@
 
 - 📫 How to reach me *apratiksha1137@gmail.com*
 -  <a href="https://www.instagram.com/pratiksharameshanand/"><img src="https://img.shields.io/badge/Pratiksharameshanand-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Pratiksha Ramesh Anand" />
- [website]:https://www.linkedin.com/in/pratiksha-anand-496520216
+ <a href="https://www.linkedin.com/in/pratiksha-anand-496520216"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Flinked-in-logo-company-editorial-2668700%2F&psig=AOvVaw3xIdHk8VmjVUwIfX9u3158&ust=1626191767750000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiUnMny3fECFQAAAAAdAAAAABAD"/></a>
  
  <h3 align="left">Languages and Tools:</h3>
  
