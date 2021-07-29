@@ -18,10 +18,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-
-
 <h2> My GitHub Stats </h2>
-
 <p align="left"> <a href="https://github.com/anandpratiksha"><img src="https://github-profile-trophy.vercel.app/?username=anandpratiksha&theme=onedark" alt="anandpratiksha" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandpratiksha&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="anandpratiksha" /></p>
